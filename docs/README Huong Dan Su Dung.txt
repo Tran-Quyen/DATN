@@ -24,7 +24,7 @@ localhost:8000/admin/sliders
 
 ...tiep tuc update
 user account:
-user1@gmail.com
+quyen10a8.sao@gmail.com
 123456789
 admin account:
 admin1@gmail.com
