@@ -2,7 +2,7 @@ Phien ban PHP >= 8.1.0
 Phien ban Laravel >= 9
 
 Cach chay:
-B1: Chạy Xampp
+B1: Chạy Xampp (Apache + MySQL)
 B2: Chay 2 lenh sau duoi terminal
 php artisan serve + npm run dev
 
