@@ -4,7 +4,7 @@ Phien ban Laravel >= 9
 Cach chay:
 B1: Chạy Xampp (Apache + MySQL)
 B2: Chay 2 lenh sau duoi terminal
-php artisan serve + npm run dev
+npm start + npm run dev
 
 route User page:
 localhost:8000/ (home page)
